@@ -1,7 +1,7 @@
 #!/bin/bash
-# Coded by: thelinuxchoice (Don't change, noob!)
-# www.github.com/thelinuxchoice
-# www.instagram.com/linux_choice
+# Coded by: DorianJ.
+# www.github.com/Dorian69420
+# www.instagram.com/dorian_jercic
 
 trap 'store; exit 1;' 2
 
